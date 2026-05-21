@@ -107,20 +107,17 @@ podman run -it --name mycontainer -p 8080:80 registry.access.redhat.com/ubi9/ubi
 - [ ] Shell prompt changed to container ID
 - [ ] Ready to run commands inside container (Lab 22-1g)
 
----
-
 ## 🔗 Series Navigation
-
 | Lab | Description |
 |-----|-------------|
-| [22-1a](https://github.com/kelvintechnical/lab-22-1a) | Create conadm user |
-| [22-1b](https://github.com/kelvintechnical/lab-22-1b) | Grant conadm full sudo rights |
-| [22-1c](https://github.com/kelvintechnical/lab-22-1c) | Verify sudo access |
-| [22-1d](https://github.com/kelvintechnical/lab-22-1d) | Inspect ubi9 remotely with skopeo |
-| [22-1e](https://github.com/kelvintechnical/lab-22-1e) | Pull ubi9 image with podman |
+| [22-1a](https://github.com/kelvintechnical/Create-User-Account-Conadm) | Create conadm user |
+| [22-1b](https://github.com/kelvintechnical/Grant-Conadm-Full-Rights) | Grant conadm full sudo rights |
+| [22-1c](https://github.com/kelvintechnical/Verify-Sudo-Access-Conadm) | Verify sudo access |
+| [22-1d](https://github.com/kelvintechnical/Inspect-ubi9-with-skopeo) | Inspect ubi9 remotely with skopeo |
+| [22-1e](https://github.com/kelvintechnical/Pull-ubi9-Image-with-podman) | Pull ubi9 image with podman |
 | **22-1f** | **Launch container with -it + port map 80:8080** ← you are here |
-| [22-1g](https://github.com/kelvintechnical/lab-22-1g) | Run basic commands inside container |
-| [22-1h](https://github.com/kelvintechnical/lab-22-1h) | Verify port mapping from host |
+| [22-1g](https://github.com/kelvintechnical/run-commands-inside-terminal) | Run basic commands inside container |
+| [22-1h](https://github.com/kelvintechnical/verify-port-mapping-from-host) | Verify port mapping from host |
 
 ---
 
